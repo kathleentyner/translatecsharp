@@ -1,0 +1,15 @@
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net7.0\PlaceNames.exe
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net7.0\PlaceNames.deps.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net7.0\PlaceNames.runtimeconfig.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net7.0\PlaceNames.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\bin\Debug\net7.0\PlaceNames.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.csproj.CoreCompileInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\refint\PlaceNames.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\PlaceNames.genruntimeconfig.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\place-names\csharp\PlaceNames\obj\Debug\net7.0\ref\PlaceNames.dll

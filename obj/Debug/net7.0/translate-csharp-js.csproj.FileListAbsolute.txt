@@ -1,0 +1,5 @@
+C:\Users\kathl\workspace\csharp\translate-csharp-js\obj\Debug\net7.0\translate-csharp-js.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\obj\Debug\net7.0\translate-csharp-js.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\translate-csharp-js\obj\Debug\net7.0\translate-csharp-js.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\obj\Debug\net7.0\translate-csharp-js.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\translate-csharp-js\obj\Debug\net7.0\translate-csharp-js.csproj.CoreCompileInputs.cache
