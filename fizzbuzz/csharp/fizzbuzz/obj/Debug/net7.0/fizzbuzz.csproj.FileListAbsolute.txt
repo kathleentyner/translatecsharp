@@ -1,0 +1,15 @@
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.exe
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.deps.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.runtimeconfig.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\refint\fizzbuzz.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\fizzbuzz\csharp\fizzbuzz\obj\Debug\net7.0\ref\fizzbuzz.dll
