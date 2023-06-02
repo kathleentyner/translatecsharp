@@ -1,0 +1,15 @@
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\bin\Debug\net7.0\word-frequency.exe
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\bin\Debug\net7.0\word-frequency.deps.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\bin\Debug\net7.0\word-frequency.runtimeconfig.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\bin\Debug\net7.0\word-frequency.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\bin\Debug\net7.0\word-frequency.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.csproj.CoreCompileInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\refint\word-frequency.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\word-frequency.genruntimeconfig.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\word-frequency\csharp\word-frequency\obj\Debug\net7.0\ref\word-frequency.dll
