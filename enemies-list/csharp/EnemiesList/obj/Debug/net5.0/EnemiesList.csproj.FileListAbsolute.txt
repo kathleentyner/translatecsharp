@@ -1,0 +1,16 @@
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.exe
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.deps.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.runtimeconfig.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.runtimeconfig.dev.json
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\bin\Debug\net5.0\EnemiesList.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.csproj.CoreCompileInputs.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\refint\EnemiesList.dll
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.pdb
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\EnemiesList.genruntimeconfig.cache
+C:\Users\kathl\workspace\csharp\translate-csharp-js\enemies-list\csharp\EnemiesList\obj\Debug\net5.0\ref\EnemiesList.dll
